@@ -71,7 +71,6 @@ resume-to-job-match/
 │
 ├── app.py
 ├── Resume_to_job_match.ipynb
-├── job_resume_fit.csv
 ├── requirements.txt
 └── README.md
 ```
